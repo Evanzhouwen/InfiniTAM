@@ -7,6 +7,7 @@
 .DS_Store
 x64/
 /InfiniTAM/build/
+/InfiniTAM/doxygen-html/
 /InfiniTAM/buildx/
 /InfiniTAM/freeglut/
 /InfiniTAM/install/

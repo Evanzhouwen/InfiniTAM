@@ -97,7 +97,6 @@ namespace ORUtils
 			this->isAllocated_CPU = false;
 			this->isAllocated_CUDA = false;
 			this->isMetalCompatible = false;
-
 			switch (memoryType)
 			{
 				case MEMORYDEVICE_CPU: Allocate(dataSize, true, false, true); break;
